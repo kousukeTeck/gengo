@@ -1,0 +1,10 @@
+.title{
+  height: 100px;
+  width: auto;
+  background-color: aquamarine;
+}
+
+.name{
+  font-size: 50px;
+  justify-content: center;
+}
