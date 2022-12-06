@@ -1,0 +1,2 @@
+class Gengom < ApplicationRecord
+end
